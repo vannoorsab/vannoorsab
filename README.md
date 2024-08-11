@@ -59,4 +59,4 @@ I'm vannor, 18 Y.O. From India.
 <!-- Stats -->
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=vannoorsab&theme=github_dark&hide=issues,stars&hide_border=true&cache_seconds=1800&show_icons=true&count_private=true" alt="dhhruv" width="60%" />
 <!-- Languages -->
-<img src=https://github-readme-stats.vercel.app/api/top-langs/?username=vannoorsab&langs_count=7&show_icons=true&count_private=true&cache_seconds=1800&layout=compact&hide_border=true&theme=github_dark" alt="dhhruv" width="37%" />
+<img src=https://github-readme-stats.vercel.app/api/top-langs/?username=vannoorsab&langs_count=7&show_icons=true&count_private=true&cache_seconds=1800&layout=compact&hide_border=true&theme=github_dark />
